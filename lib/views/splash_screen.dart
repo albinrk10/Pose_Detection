@@ -38,7 +38,7 @@ class SplashScreen extends StatelessWidget {
               ),
               const SizedBox(height: 40),
               const Text(
-                'Push Up Counter',
+                'Contador de flexiones',
                 style: TextStyle(
                     fontSize: 38.0,
                     fontWeight: FontWeight.bold,
@@ -47,7 +47,7 @@ class SplashScreen extends StatelessWidget {
               Container(
                 width: size.width * 0.7,
                 child: Text(
-                  'An exiting app partner for your exercise routine',
+                  'Tu compañero ideal para tu rutina de ejercicios',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 18.0, letterSpacing: -1.1),
                 ),
